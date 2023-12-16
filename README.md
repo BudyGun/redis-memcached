@@ -82,7 +82,7 @@ sudo apt install redis-server
 ```
 ![1](https://github.com/BudyGun/redis-memcached/blob/main/img/mc5.png)
 
-Запуская консоль редиса командой:  
+Запускаю консоль редиса командой:  
 ```
 redis-cli
 ```
