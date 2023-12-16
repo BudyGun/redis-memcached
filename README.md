@@ -86,7 +86,7 @@ sudo apt install redis-server
 ```
 redis-cli
 ```
-ввожу ключи
+и ввожу и вывожу ключи  
 ![1](https://github.com/BudyGun/redis-memcached/blob/main/img/mc6.png)
 
 
