@@ -39,6 +39,7 @@
 
 *Приведите скриншот systemctl status memcached, где будет видно, что memcached запущен.*
 
+#### Решение
 ![1](https://github.com/BudyGun/redis-memcached/blob/main/img/mc2.png)
 
 
