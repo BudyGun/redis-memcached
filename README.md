@@ -56,13 +56,11 @@
 ```
 telnet localhost 11211
 ```
-
-
 Ввожу команду добавления ключа
 ```
-add key 0 20 8
+add key 0 5 8
 ```
-
+![1](https://github.com/BudyGun/redis-memcached/blob/main/img/mc3.png)
 ---
 
 ### Задание 4. Запись данных в Redis
